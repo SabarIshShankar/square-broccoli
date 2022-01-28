@@ -1,0 +1,135 @@
+{
+    "title": "spacesurf",
+    "path_prefix": "/",
+    "layout_type": "boxed",
+    "style": "classic",
+    "palette": "blue",
+    "mode": "dark",
+    "base_font": "serif",
+    "header": {
+        "title": "minutes",
+        "logo_alt": "DIY logo",
+        "has_primary_nav": true,
+        "primary_nav_links": [
+            {
+                "label": "Elements",
+                "url": "/features",
+                "style": "link"
+            },
+            {
+                "label": "Internet",
+                "url": "/pricing",
+                "style": "link"
+            },
+            {
+                "label": "Science",
+                "url": "/about",
+                "style": "link"
+            },
+            {
+                "label": "Information",
+                "url": "/blog",
+                "style": "link"
+            },
+            {
+                "label": "Business & Product",
+                "url": "/style-guide",
+                "style": "link"
+            }
+        ],
+        "has_secondary_nav": true,
+        "secondary_nav_links": [
+            {
+                "label": "Check this out",
+                "url": "/contact",
+                "style": "link"
+            },
+            {
+                "label": "Instagram",
+                "url": "/pricing",
+                "style": "primary"
+            }
+        ]
+    },
+    "footer": {
+        "logo_alt": "trueblueidea",
+        "has_primary_nav": true,
+        "primary_nav_title": "Company",
+        "primary_nav_links": [
+            {
+                "label": "About",
+                "url": "/about",
+                "style": "link"
+            },
+            {
+                "label": "Style Guide",
+                "url": "/style-guide",
+                "style": "link"
+            }
+        ],
+        "has_secondary_nav": true,
+        "secondary_nav_title": "Blog",
+        "secondary_nav_links": [
+            {
+                "label": "News",
+                "url": "/blog/category/news",
+                "style": "link"
+            },
+            {
+                "label": "General",
+                "url": "/blog/category/general",
+                "style": "link"
+            },
+            {
+                "label": "Tutorials",
+                "url": "/blog/category/tutorials",
+                "style": "link"
+            }
+        ],
+        "has_tertiary_nav": true,
+        "tertiary_nav_title": "Legal",
+        "tertiary_nav_links": [
+            {
+                "label": "Terms & Conditions",
+                "url": "/terms-conditions",
+                "style": "link"
+            },
+            {
+                "label": "Privacy Policy",
+                "url": "/privacy-policy",
+                "style": "link"
+            }
+        ],
+        "has_social": true,
+        "social_links": [
+            {
+                "label": "Twitter",
+                "url": "https://twitter.com/",
+                "style": "link",
+                "has_icon": true,
+                "icon": "twitter",
+                "icon_position": "center",
+                "new_window": true
+            },
+            {
+                "label": "YouTube",
+                "url": "https://www.youtube.com/",
+                "style": "link",
+                "has_icon": true,
+                "icon": "instagram",
+                "icon_position": "center",
+                "new_window": true
+            }
+        ],
+        "content": "from trueblueidea"
+    },
+    "announcement": {
+        "has_anncmnt": true,
+        "anncmnt_content": "Curabitur ac tellus mattis, tempor ipsum eu, eleifend sapien. **[Learn More](/pricing/)**",
+        "anncmnt_align": "left",
+        "anncmnt_is_home_only": true,
+        "anncmnt_has_close": true,
+        "anncmnt_id": "new-features"
+    },
+    "domain": "https://trueblueidea.com"
+}
