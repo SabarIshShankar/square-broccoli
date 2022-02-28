@@ -27,10 +27,9 @@ sections:
     grid_items:
       - title: What is Oyela - Sell & Shop easily
         title_align: left
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          Oyela is an app that enables common Individuals like you and me to
+          Sell, Buy and Engage with each other around Fashion.
         content_align: left
         actions:
           - label: Learn More
