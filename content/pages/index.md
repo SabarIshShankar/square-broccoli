@@ -9,7 +9,7 @@ sections:
         url: /pricing
         style: primary
       - label: Instagram
-        url: 'https://instagram.com/trueblueidea'
+        url: 'https://instagram.com/oyela'
         style: secondary
         has_icon: true
         icon: instagram
