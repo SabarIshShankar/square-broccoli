@@ -112,7 +112,7 @@ sections:
   - type: cta_section
     title: Start selling your fashion now. Download the App.
     content: |
-      Subscribe with email
+      Oyela on Playstore
     actions:
       - label: Button
         url: /pricing
