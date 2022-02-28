@@ -20,7 +20,7 @@ sections:
     padding_bottom: large
     background_color: primary
   - type: grid_section
-    title: 'Science, Product & Technology.'
+    title: 'Experiences, &'
     grid_items:
       - title: Section Item 1
         title_align: left
