@@ -114,7 +114,7 @@ sections:
     content: |
       Oyela on Playstore
     actions:
-      - label: Button
+      - label: Get it
         url: /pricing
         style: primary
     actions_position: bottom
