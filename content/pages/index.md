@@ -88,7 +88,7 @@ sections:
     enable_cards: true
     align: center
     background_color: none
-    subtitle: still working on science
+    subtitle: success stories of sellers from Oyela
   - type: blog_feed_section
     title: Latest Articles
     actions:
