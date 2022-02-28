@@ -123,7 +123,7 @@ sections:
     padding_bottom: large
     background_color: secondary
 seo:
-  title: 'spacesurf - '
+  title: Oyela - Set up shop & start selling.
   description: just a put together of documents and fundamentals
   extra:
     - name: 'og:type'
