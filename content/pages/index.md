@@ -20,7 +20,7 @@ sections:
     padding_bottom: large
     background_color: primary
   - type: grid_section
-    title: 'Experiences, &'
+    title: 'Experiences, & the Oyela advantage'
     grid_items:
       - title: Section Item 1
         title_align: left
