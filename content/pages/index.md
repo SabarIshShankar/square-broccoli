@@ -25,7 +25,7 @@ sections:
   - type: grid_section
     title: 'Experiences, & the Oyela advantage'
     grid_items:
-      - title: What is Oyela - Sell & Shop easily
+      - title: What is Oyela?
         title_align: left
         content: >
           Oyela is an app that enables common Individuals like you and me to
