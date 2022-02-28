@@ -146,7 +146,9 @@ seo:
     - name: 'twitter:title'
       value: Oyela - Set up shop & start selling.
     - name: 'twitter:description'
-      value: fundamentals & and a journey
+      value: >-
+        The official Oyela.in Blog, helping with resources and stories from
+        sellers.
     - name: 'twitter:image'
       value: images/diy-preview.png
       relativeUrl: true
