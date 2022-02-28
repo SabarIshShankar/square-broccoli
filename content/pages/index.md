@@ -124,7 +124,7 @@ sections:
     background_color: secondary
 seo:
   title: Oyela - Set up shop & start selling.
-  description: just a put together of documents and fundamentals
+  description: 'The official Oyela.in Blog, helping with resources and stories from sellers.'
   extra:
     - name: 'og:type'
       value: website
