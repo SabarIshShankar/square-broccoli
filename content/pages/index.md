@@ -110,7 +110,7 @@ sections:
     has_border: false
     background_color: none
   - type: cta_section
-    title: Get your information digest straight to your inbox
+    title: Start selling your fashion now. Download the App.
     content: |
       Subscribe with email
     actions:
