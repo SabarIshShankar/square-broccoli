@@ -46,10 +46,10 @@ sections:
         image_has_padding: true
       - title: About Us
         title_align: left
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          The mission is to inspire common individuals to become fashionpreneurs
+          and convert their closets into assets. This will boost the circular
+          economy.
         content_align: left
         actions:
           - label: Learn More
