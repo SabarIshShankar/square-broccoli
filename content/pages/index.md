@@ -5,7 +5,7 @@ sections:
     title: Slicing bread is sometimes easy.
     subtitle: trial for the metaverse
     actions:
-      - label: Start reading
+      - label: Download the App
         url: /pricing
         style: primary
       - label: Instagram
