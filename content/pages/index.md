@@ -5,7 +5,7 @@ sections:
     title: Selling has never been easier.
     subtitle: trial for the metaverse
     actions:
-      - label: Download the App
+      - label: Download App
         url: /pricing
         style: primary
       - label: Instagram
