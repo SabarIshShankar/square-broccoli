@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Slicing bread is sometimes easy.
+    title: Selling has never been easier.
     subtitle: trial for the metaverse
     actions:
       - label: Download the App
