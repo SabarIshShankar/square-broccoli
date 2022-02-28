@@ -35,7 +35,7 @@
         "has_secondary_nav": true,
         "secondary_nav_links": [
             {
-                "label": "Check this out",
+                "label": "Instagram",
                 "url": "/contact",
                 "style": "link"
             },
