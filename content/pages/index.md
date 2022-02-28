@@ -12,6 +12,7 @@ sections:
         url: 'https://instagram.com/trueblueidea'
         style: secondary
         has_icon: true
+        icon: instagram
     image: /images/photo-1575671153502-a417e2ddd259.jfif
     image_alt: Hero section placeholder image
     media_position: left
