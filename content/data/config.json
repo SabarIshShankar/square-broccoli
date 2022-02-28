@@ -36,7 +36,7 @@
         "secondary_nav_links": [
             {
                 "label": "Instagram",
-                "url": "/contact",
+                "url": "https://instagram.com/",
                 "style": "link"
             },
             {
