@@ -133,7 +133,9 @@ seo:
       value: Oyela - Set up shop & start selling.
       keyName: property
     - name: 'og:description'
-      value: 'fundamentals, '
+      value: >-
+        The official Oyela.in Blog, helping with resources and stories from
+        sellers.
       keyName: property
     - name: 'og:image'
       value: images/diy-preview.png
