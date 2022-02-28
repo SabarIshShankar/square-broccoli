@@ -66,10 +66,7 @@ sections:
         image_has_padding: true
       - title: Sell & Shop easily
         title_align: left
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: "![](https://s.w.org/images/core/emoji/13.1.0/svg/1f4b0.svg)Buy-Sell your favorite fashion in minutes\_![](https://s.w.org/images/core/emoji/13.1.0/svg/1f4b5.svg)\_70% off brands like H\\&M, Zara, Vero Moda, Calvin Clein & hundreds more\n\n\n\n"
         content_align: left
         actions:
           - label: Learn More
