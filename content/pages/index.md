@@ -142,7 +142,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: spacesurf
+      value: Oyela - Set up shop & start selling.
     - name: 'twitter:description'
       value: fundamentals & and a journey
     - name: 'twitter:image'
