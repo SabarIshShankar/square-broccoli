@@ -10,7 +10,7 @@ sections:
         style: primary
       - label: Instagram
         url: 'https://instagram.com/oyela'
-        style: secondary
+        style: link
         has_icon: true
         icon: instagram
         icon_position: center
