@@ -130,7 +130,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: spacesurf
+      value: Oyela - Set up shop & start selling.
       keyName: property
     - name: 'og:description'
       value: 'fundamentals, '
