@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Selling has never been easier.
-    subtitle: trial for the metaverse
+    subtitle: Sell Effectively. Easily.
     actions:
       - label: Download App
         url: /pricing
