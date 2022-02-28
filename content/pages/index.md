@@ -25,7 +25,7 @@ sections:
   - type: grid_section
     title: 'Experiences, & the Oyela advantage'
     grid_items:
-      - title: 'What is Oyela- Sell Simply, Shop '
+      - title: What is Oyela- Sell & Shop
         title_align: left
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
